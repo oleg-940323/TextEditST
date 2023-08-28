@@ -1,0 +1,1 @@
+#include "textblockcollapser.h"
